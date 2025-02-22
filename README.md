@@ -1,0 +1,1 @@
+Edits linked Audio Link Controllers to lock all interactable UI Elements and VRCPickups on Build or by starting Play Mode. Defaults the Audio Link Controller(s) to be locked down upon loading the world in-game. Once loaded, AccessControl is checked and event registered to allow the local player to interact and/or pickup the Audio Link Controller(s).
